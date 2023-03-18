@@ -24,3 +24,5 @@ in this questgib sub project we are building a web crawler which returnd the fol
 * bot.py contains code to get content from list of given websites
 * questBot.py only gets the content of any website given to it during run time
 * to run this project ensure to pip install requests, pandas, and BeautifulSoup 4
+* results are returned in json format and it returns the name in time seconds so always check the name 
+* use the readfile.py to read the returned json file, remember to always change the name to the current json file
