@@ -1,4 +1,7 @@
-# QuestGig
+
+<p align="center">
+  <img src="https://github.com/Levi-Chinecherem/QuestGig/blob/main/photos/crawler_logo.PNG" width="1000" alt="web crawler" title="questgig web crawler">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/QuestGig-Crawler%2FBot-blueviolet" width="350" title="the questgig bot">
   <img src="https://img.shields.io/badge/QuestGig-Web%20Crawler-blueviolet" width="350" alt="web crawler" title="questgig web crawler">
